@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/lankjir/Documents/asasdasd.png"
+ sRGBOutput 1
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

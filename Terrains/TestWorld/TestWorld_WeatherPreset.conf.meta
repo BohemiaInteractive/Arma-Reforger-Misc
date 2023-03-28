@@ -1,0 +1,13 @@
+MetaFileClass {
+ Name "{A3417EEB45156972}worlds/TestMaps/TestWorld/TestWorld_WeatherPreset.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3B36DFE68EAB5AF9}worlds/TestMaps/TestWorld/TestWorld.smap"
+ Configurations {
+  SoundMapResourceClass PC {
+  }
+  SoundMapResourceClass XBOX_ONE : PC {
+  }
+  SoundMapResourceClass XBOX_SERIES : PC {
+  }
+  SoundMapResourceClass PS4 : PC {
+  }
+  SoundMapResourceClass HEADLESS : PC {
+  }
+ }
+}

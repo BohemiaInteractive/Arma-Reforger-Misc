@@ -1,0 +1,555 @@
+$grp CommentEntity {
+ {
+  coords 1009.899 24.841 1967.96
+  angleY -88
+  m_Comment "-0.1"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 949.319 24.841 1970.075
+  angleY -88
+  m_Comment "-0.2"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 883.478 24.841 1972.375
+  angleY -88
+  m_Comment "-0.3"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 828.708 24.841 1974.287
+  angleY -88
+  m_Comment "-0.4"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 769.517 24.841 1976.354
+  angleY -88
+  m_Comment "-0.5"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 722.331 24.841 1978.002
+  angleY -88
+  m_Comment "-0.6"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 660.924 24.841 1980.146
+  angleY -88
+  m_Comment "-0.7"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 622.703 24.841 1981.481
+  angleY -88
+  m_Comment "-0.8"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 558.233 24.841 1983.733
+  angleY -88
+  m_Comment "-0.9"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 510.919 24.841 1985.385
+  angleY -88
+  m_Comment "-1.0"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 447.004 24.841 1987.617
+  angleY -88
+  m_Comment "-1.2"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 390.157 24.841 1989.602
+  angleY -88
+  m_Comment "-1.4"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 338.696 24.841 1991.399
+  angleY -88
+  m_Comment "-1.6"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 282.418 24.841 1993.364
+  angleY -88
+  m_Comment "-2.0"
+  m_Size 3
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1457.283
+  angleY 90
+  m_Comment "ROCK_03"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1636.297
+  angleY 90
+  m_Comment "FOREST_01_UNDERGROWTH"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1665.244
+  angleY 90
+  m_Comment "FORESTCONIFEROUS_01_BASE"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1477.773
+  angleY 90
+  m_Comment "ROCK_JAGGED_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1503.941
+  angleY 90
+  m_Comment "ROCKYDIRT_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1231.327
+  angleY 90
+  m_Comment "DIRT_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1347.866
+  angleY 90
+  m_Comment "COBBLESTONES_01_WAVE"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1659.736 101.682 1304.266
+  angleY 90
+  m_Comment "10 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1852.749 160 1304.266
+  angleY 90
+  m_Comment "20 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 2051.162 230 1304.266
+  angleY 90
+  m_Comment "30 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1253.26
+  angleY 90
+  m_Comment "DIRT_02"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1300.599
+  angleY 90
+  m_Comment "ASPHALT_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1273.363
+  angleY 90
+  m_Comment "CONCRETE_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1101.97
+  angleY 90
+  m_Comment "CROP_FIELD_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1376.164
+  angleY 90
+  m_Comment "DEBRIS_ROCK_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1607.242
+  angleY 90
+  m_Comment "FORESTDECIDUOUS_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1581.704
+  angleY 90
+  m_Comment "PEBBLES_03"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1205.711
+  angleY 90
+  m_Comment "GRASS_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1180.866
+  angleY 90
+  m_Comment "GRASS_02"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1154.516
+  angleY 90
+  m_Comment "GRASS_03"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1328.787
+  angleY 90
+  m_Comment "GRAVEL_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1077.905
+  angleY 90
+  m_Comment "HEATHER_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1529.406
+  angleY 90
+  m_Comment "PEBBLES_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1551.142
+  angleY 90
+  m_Comment "PEBBLES_02"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1406.061
+  angleY 90
+  m_Comment "ROCK_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1431.868
+  angleY 90
+  m_Comment "ROCK_02"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1585.965 120.001 769.222
+  angleY -180
+  m_Comment "5 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1500.965 140.001 769.222
+  angleY -180
+  m_Comment "10 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1390.965 160.001 769.222
+  angleY -180
+  m_Comment "14 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1290.965 185.001 769.222
+  angleY -180
+  m_Comment "18 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1185.965 210.001 769.222
+  angleY -180
+  m_Comment "23 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1075.965 235.001 769.222
+  angleY -180
+  m_Comment "28 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 980.965 260.001 769.222
+  angleY -180
+  m_Comment "33 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 880.965 285.001 769.222
+  angleY -180
+  m_Comment "40 deg"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1256 50.993 1290
+  angleX -90
+  angleZ -180
+  m_Comment "CONCRETE"
+  m_Size 8
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1266 50.993 1278
+  angleX -90
+  angleZ -180
+  m_Comment "SOIL"
+  m_Size 8
+  m_Color 1 0.965 0.296
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1330 51.047 2055
+  angleX -90
+  m_Comment "ASPHALT"
+  m_Size 8
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1130.816
+  angleY 90
+  m_Comment "GRASS_04"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1733.783
+  angleY 90
+  m_Comment "SNOW_02"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 1360 54 1703.425
+  angleY 90
+  m_Comment "SNOW_01"
+  m_Size 2
+  m_Color 1 0.961 0.297
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+ {
+  coords 0 5 0
+  angleY -88
+  m_Comment "0,0,0"
+  m_Size 10
+  m_Color 1 0.961 0.297
+  m_FaceCamera 1
+  m_VisibleIngame 1
+  m_TextBackground 1
+  m_BackgroundTransparency 0.25
+ }
+}

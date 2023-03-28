@@ -1,0 +1,6 @@
+Layer default {
+ Index 0
+}
+Layer labels {
+ Index 1
+}
