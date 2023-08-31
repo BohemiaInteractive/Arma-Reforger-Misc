@@ -10,4 +10,5 @@ Once that is done, you should be able to verify if **Morphs** are working  by na
 
 
 ![](Documentation/workbench_morphs.gif)
-Morphs can be controlled via script [[https://enfusionengine.com/api/redirect?to=enfusion://ScriptEditor/scripts/Core/generated/Visual/Animation.c;20|SetMorphState]] method.
+
+Morphs can be controlled via script [SetMorphState](https://enfusionengine.com/api/redirect?to=enfusion://ScriptEditor/scripts/Core/generated/Visual/Animation.c;20) method.
